@@ -1,0 +1,922 @@
+/*  IPAD PRO POTRAIT AND IPAD LANDSCAPE*/
+
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .container{
+        width: 960px;
+    }
+    .banner {
+        background-position: center;
+    }
+    .box p {
+        font-size: 13px;
+    }
+    .box {
+        width: 23.9%;
+    }
+    .border-box {
+        min-height: 236px;
+    }
+    .career2 img {
+        margin: 0px 7px;
+        padding: 7px;
+    }
+    .review2{
+        min-height: 357px;
+        margin-left: 1.5%;
+    }
+    .web-cont1 {
+        padding: 0px 27px;
+    }
+    .a2n1 h1 {
+        font-size: 30px;
+    }
+    .a2n1 h3 {
+        font-size: 20px;
+    }
+    .a2n2 {
+        font-size: 16px;
+    }
+    .benefit1 ul{
+        line-height: 1.55;
+
+    }
+}
+
+
+    /* IPAD POTRAIT */
+
+    @media only screen and (min-width:768PX)  and (max-device-width: 991px) {
+        .container{
+            width: 720px;
+        }.header1 {
+            width: 33%;
+        }
+        .header2 {
+            width: 67%;
+            margin-top: 2px;
+        }
+        .banner1 {
+            width: 62%;
+        }
+        .banner1 h2 {
+            font-size: 22px;
+        }
+        .banner1 li {
+            font-size: 20px;
+        }
+        .banner2 {
+            margin-top: 10%;
+            width: 38%;
+        }
+        .banner1 p {
+            font-size: 20px;
+            line-height: 25px;
+        }
+        .banner{
+        padding: 25px 0px 55px 0px;
+        }
+        .banner1 h1 {
+            font-size: 25px;
+        }
+        .web-cont h2 {
+            font-size: 22px;
+        }
+        .box {
+            width: 23.6%;
+        }
+        .box p {
+            font-size: 10px;
+            padding-right: 20px;
+        }
+        .box img {
+            padding: 7px 0px 7px 12px;      
+            margin-left: 0px;
+        }
+        .web-cont1 {
+            margin: 10px 0px 3px;
+            padding: 0px 23px;
+            font-size: 15px;
+            letter-spacing: 0px;
+        }
+        .border-box {
+            margin-bottom: 40px;
+            padding: 16px 0px;
+            min-height: 252px;
+        }
+        .border-box h3 {
+            font-size: 16px;
+        }
+        .border-box p {
+            font-size: 14px;
+        }
+        .benefit1 {
+            width:63%
+        }
+        .benefit2 {
+            width:37%
+        }
+        .benefit1 ul {
+            font-size: 15px;
+            line-height: 1.3;
+        }
+        .benefit1 h2 {
+            font-size: 22px;
+        }
+        .career1 h1 {
+            font-size: 22px;
+            margin-bottom: 0%;
+        }
+        .career1 p{
+            font-size: 14px;
+            margin: 18px 0px 30px;
+        }
+        .career2 img {
+            margin: 0px 5px;
+            padding: 7px;
+        }
+        .review1 h1 {
+            margin-bottom: 1%;
+            font-size: 22px;
+        }
+        .review1 p {
+            font-size: 15px;
+        }
+        .review2 p {
+            font-size: 15px;
+            margin: 4px 1px;
+            line-height: 1.2;
+        }
+        .review2 h5 {
+           font-size: 14px;
+        }
+        .a2n{
+            height: 291px;
+            background-position: bottom left;
+        }
+        .a2n1 h1 {
+            font-size: 28px;
+        }
+        .a2n1 h3 {
+            font-size: 20px;
+        }
+        .a2n2 {
+            font-size: 16px;
+        }
+        .frm-style {
+            margin-bottom: 10px;
+            margin-top: 5px;
+            font-size: 13px;
+        }
+        .form-design {
+            padding: 8px 0px 7px 8px;
+            font-size: 14px;
+        }
+    }
+
+    /* iPHONE-X AND IPHONE 6/7/8/8PLUSLANDSCAPE */
+
+    @media only screen and (min-width:567px) and (max-width:767px){
+        .container{
+            padding-left: 15px;
+            padding-right: 15px;
+            width: 100%;
+        }
+        .header1{
+            width: 30%;
+        }
+        .header2{
+            width: 70%;
+        }
+        .banner1 {
+            width: 60%;
+        }
+        .banner2 {
+            width: 40%;
+        }
+        .banner1 h1 {
+            font-size: 28px;
+        }
+        .banner1 p {
+            font-size: 19px;
+            line-height: 25px;
+        }
+        .banner1 h2 {
+            font-size: 24px;
+            margin-top: 13px;
+        }
+        .banner1 ul {
+            margin: 10px 0px 0px 50px;
+        }
+        .banner1 li {
+            font-size: 19px;
+        }
+        .box {
+            width: 25%;
+            margin-right: 0px;
+        }
+        .box p {
+            font-size: 9px;
+            width: 70%;
+        }
+        .box img {
+            padding: 7px 0px 7px 19px;
+            width: 30%;
+        }
+        .web-des-crs {
+            padding-bottom: 6px;
+            padding-top: 23px;
+            margin-top: 1%;
+        }
+        .web-cont1 {
+            margin: 18px 0px 31px;
+            padding: 0px 46px;
+            font-size: 16px;
+            letter-spacing: 0.2px;
+        }
+        .web-cont h2 {
+            font-size: 20px;
+        }
+        .border-box img {
+            padding: 0px 0px 4px 0px;
+            width: 70px;
+        }
+        .border-box h3 {
+            font-size: 15px;
+            margin: 0px 0px 14px;
+        }
+        .border-box p{
+            font-size: 15px;
+        }
+        .border-box {
+            min-height: 238px;
+            width: 88%;
+            margin-bottom: 49px;
+            padding: 12px 0px;
+        }
+        .boxes1-eight {
+            margin-left: 1%;
+            margin-right: 1.7%;
+            width: 22.7%;
+        }
+        .a2n {
+            padding-top: 5px;
+            padding-bottom: 5px;
+            background-position: bottom left;
+            height: 263px;
+        }
+        .a2n1 h1 {
+            font-size: 27px;
+        }
+        .a2n1 h3 {
+            font-size: 18px;
+        }
+        .a2n2 {
+            font-size: 15px;
+        }
+        .btn-style-white {
+            font-size: 16px;
+            padding: 8px 24px;
+        }
+        .benefit1 h2 {
+            font-size: 22px;
+        }
+        .benefit1 ul {
+            font-size: 16px;
+            line-height: 1.35;
+            margin-left: 4%;
+            margin-top: 2%;
+        }
+        .benefit2 {
+            margin-top: 5%;
+            width: 37%;
+        }
+        .benefit1{
+            width: 63%;
+        }
+        .career1 p {
+            font-size: 15px;
+            margin: 10px 0px 23px;
+        }
+        .career1 h1{
+            font-size: 22px;
+        }
+        .career2 img {
+            padding: 5px;
+            margin: 0px 5px;
+        }
+        .review1 h1 {
+            margin-bottom: 2%;
+            font-size: 22px;
+        }
+        .review1 p {
+            font-size: 14px;
+        }
+        .review2 img {
+            margin-top: 0;
+            margin-left: 0;
+        }
+        .review2 p {
+            font-size: 14px;
+            margin: 5px 1px;
+            line-height: 1.1;
+        }
+        .review2 h5 {
+            text-align: right;
+            font-size: 13px;
+        }
+        .review2 {
+            min-height: 246px;
+        }
+        .review2:first-child {
+            margin-left: 0;
+        }
+
+    }
+
+    @media only screen and (max-width:668px){
+        container
+        .header1{
+            width: 30%;
+        }
+        .header1 img{
+            width: 214px;
+        }
+        .header2{
+            width: 70%;
+        }
+        .header2 a {
+            font-size: 16px;
+        }
+        .header2 ul li {
+            margin: 7px;
+        }
+        .banner1 h1 {
+            font-size: 24px;
+        }
+        .banner1 p {
+            font-size: 17px;
+            line-height: 20px;
+        }
+        .banner1 h2 {
+            font-size: 21px;
+            margin-top: 11px;
+        }
+        .banner1 li {
+            font-size: 17px;
+        }
+        .form-design {
+            padding: 10px 0px 10px 8px;
+            font-size: 13px;
+        }
+        .btn-style {
+            font-size: 16px;
+            padding: 6px 15px;
+            line-height: 26px;
+            margin-bottom:0px;
+        }
+        .box p {
+            font-size: 8px;
+        }
+        .web-cont1 {
+            margin: 12px 0px 12px;
+            padding: 0px 29px;
+            font-size: 15px;
+            letter-spacing: 0.1px;
+        }
+        .border-box p {
+            font-size: 12px;
+        }
+        .border-box h3 {
+            font-size: 13px;
+        }
+        .border-box {
+            min-height: 200px;
+            margin-bottom: 24px;
+            padding: 8px 0px;
+        }
+        .desc p {
+            font-size: 16px;
+        }
+        .a2n1 h1 {
+            font-size: 23px;
+        }
+        .a2n1 h3 {
+            font-size: 17px;
+        }
+        .a2n {
+            height: 238px;
+        }
+        .benefit1 h2 {
+            font-size: 20px;
+        }
+        .career1 h1 {
+            font-size: 20px;
+        }
+        .career2 img {
+            padding: 2px;
+            margin: 0px 4px;
+        }
+        .review1 h1 {
+            margin-bottom: 1%;
+            font-size: 20px;
+        }
+        .review2 img {
+            width: 20%;
+        }
+        .review2 p {
+            font-size: 13px;
+            margin: 3px 0px;
+            line-height: 1.05;
+        }
+        .review2 h5 {
+            font-size: 12px;
+        }
+        .review2 {
+            min-height: 232px;
+        }
+        .direction1 h1 {
+            font-size: 20px;
+        }
+        .direction1 p {
+            font-size: 14px;
+        }
+        .btn{
+            padding: 8px 19px;
+            font-size: 14px;
+        }
+    }
+    @media only screen and (min-width:375px) and (max-width:667px){
+    .header1 img {
+        width: 93px;
+    }
+    .header1 {
+        width: 23%;
+    }
+    .header2{
+        width: 77%;
+    }
+}
+    /* IPHONE 6/7/8 POTRAIT */
+    @media only screen and (max-width:376px){
+        .container{
+            width: 100%;
+            padding: 0px 5px;
+        }
+        .header1 img {
+            width: 95px;
+        }
+        .header2 a {
+            font-size: 11px;
+        }
+        .header2 ul li img {
+            width: 10px;
+            margin: 5px 4px -3px 4px;
+        }
+        .header1{
+            width: 23%;
+        }
+        .header2{
+            margin: 0px;
+            width: 77%;
+        }
+        .banner{
+            padding: 10px 0px 30px 0px;
+        }
+        .banner1 h1 {
+            font-size: 16px;
+        }
+        .banner1 p {
+            margin-top: 5px;
+            font-size: 11px;
+            line-height: 15px;
+        }
+        .banner1 h2 {
+            font-size: 15px;
+            margin-top: 6px;
+        }
+        .banner1 ul {
+            margin: 9px 0px 0px 20px;
+        }
+        .banner1 li {
+            font-size: 11px;
+        }
+        .banner1{
+            width: 57%;
+        }
+        .banner2{
+            width: 43%;
+        }
+        .enquiry{
+            border-radius: 4px;
+            padding: 17px 13px;
+        }
+        .enquiry h3{
+            font-size: 15px;
+        }
+        .label-style{
+            padding: 1px 1px 1px 1px;
+            font-size: 14px;
+        }
+        .form-design {
+            padding: 8px 0px 7px 8px;
+            font-size: 11px;
+        }
+        .frm-style{
+            margin-bottom: 6px;
+            margin-top: 0px;
+        }
+        .btn-style {
+            font-size: 10px;
+            padding: 1px 7px;
+            line-height: 26px;
+            /* margin-bottom: 0px; */
+        }
+        .box{
+            margin: 0px 20px 0px 7px;
+            width: 44%;
+        }
+        .box img {
+            padding: 7px 0px 7px 10px;
+            width: 31%;
+            margin-left: 0%;
+        }
+        .box:nth-child(2),.box:nth-child(4){
+            margin-right: 0px;
+        }
+        .box:nth-child(3),.box:nth-child(4){
+            margin-top:10px;
+        }
+        .web-cont h2 {
+            font-size: 16px;
+            margin-bottom: 0%;
+        }
+        .web-cont1 {
+            margin: 5px 0px 5px;
+            padding: 0px 5px;
+            font-size: 11px;
+        }
+        .border-box img {
+            padding: 5px 2px 2px 2px;
+            width: 60px;
+        }
+        .boxes1-eight {
+            margin-left: 1%;
+            width: 46%;
+        }
+        .border-box h3 {
+            margin: 5px 0px 8px;
+        }
+        .border-box {
+            min-height: 160px;
+            margin-bottom: 20px;
+        }
+        .boxes1-eight:nth-child(2),.boxes1-eight:nth-child(4),.boxes1-eight:nth-child(6),.boxes1-eight:nth-child(8){
+            margin-left: 10px;
+            margin-right: 0%;
+        }
+        .desc{
+            width: 92%;
+        }
+        .desc p {
+            font-size: 12px;
+        }
+        .a2n{
+            background-position: bottom center;
+        }
+        .a2n1 h1 {
+            font-size: 17px;
+        }
+        .a2n1 h3 {
+            font-size: 14px;
+        }
+        .a2n2 {
+            margin-top: -2%;
+            margin-bottom: -2%;
+            font-size: 10px;
+            margin: 0;
+        }
+        .btn-style-white {
+            font-size: 12px;
+            padding: 6px 10px;
+        }
+        .a2n {
+            height: 210px;
+        }
+        .benefit1 h2 {
+            font-size: 14px;
+        }
+        .benefit1 ul {
+            font-size: 12px;
+            line-height: 1.1;
+            margin-left: 9%;
+            margin-top: 0%;
+        }
+        .benefit1 {
+            width: 60%;
+        }
+        .benefit2 {
+            margin-top: 2%;
+            width: 40%;
+        }
+        .career1 h1 {
+            font-size: 14px;
+        }
+        .career1 p {
+            font-size: 12px;
+            margin: 8px 0px 15px;
+        }
+        .career2 img {
+            padding: 1px;
+            margin: 0px 2px;
+            width: 14.5%;
+        }
+        .review {
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        .review1 p {
+            font-size: 12px;
+        }
+        .review2 {
+            min-height: 150px;
+            width: 47%;
+        }
+        .review2 img {
+            width: 16%;
+            margin: 0;
+        }
+        .review2 p {
+            font-size: 12px;
+            margin: 3px 3px;
+        }
+        .review2 h5 {
+            font-size: 11px;
+        }
+        .direction {
+            padding-top: 10px;
+            padding-bottom: 15px;
+        }
+        .direction1 h1 {
+            font-size: 15px;
+        }
+        .direction1 p {
+            font-size: 11px;
+        }
+        .btn {
+            padding: 5px 8px;
+            font-size: 12px;
+        }
+        .footer {
+            padding: 10px 0;
+        }
+        .footer1 p{
+            font-size: 12px;
+        }
+        .footer2 p{
+            font-size: 12px;
+        }
+    }   
+
+    /* IPHONE 6/7/8PLUS */
+
+    @media only screen and (max-width:415PX){
+        .container{
+            width: 100%;
+            padding: 0px 5px;
+        }
+        .header1 img {
+            width: 100px;
+        }
+        .header2 a {
+            font-size: 12px;
+        }
+        .header2 ul li img {
+            width: 15px;
+            margin-right: 3px;
+        }
+        .header1 {
+            width: 23%;
+        }
+        .header2 {
+            margin-top: 1%;
+            width: 77%;
+        }
+        .header2 ul li {
+            margin: 0px 4px 3px 5px;
+        }
+        .banner{
+            padding: 10px 0px 20px 0px;
+        }
+        .banner1 h1 {
+            font-size: 13px;
+        }
+        .banner1 p {
+            margin: 5px 0px;
+            font-size: 11px;
+            line-height: 13px;
+        }
+        .banner1 h2 {
+            font-size: 12px;
+            margin-top: 7px;
+        }
+        .banner1 ul {
+            margin: 4px 0px 0px 15px;
+        }
+        .banner1 li {
+            font-size: 11px;
+        }
+        .btn-style {
+            font-size: 10px;
+            padding: 3px 7px;
+            line-height: 23px;
+            margin-top: 5px;
+        }
+        .banner1 {
+            width: 57%;
+        }
+        .banner2 {
+            width: 43%;
+        }
+        .enquiry h3{
+            font-size: 12px;
+        }
+        .frm-style {
+            margin-bottom: 10px;
+            margin-top: 3px;
+            font-size: 11px;
+        }
+        .label-style {
+            font-size: 11px;
+        }
+        .form-design {
+            padding: 6px 0px 6px 3px;
+            font-size: 10px;
+        }
+        .box {
+            width: 46.2%;
+            margin-right: 15px;
+            margin-top: 5px;
+        }
+        .box:nth-child(2),.box:nth-child(4){
+            margin-right: 0px;
+            margin-left: 4px;
+        }
+        .box:first-child,.box:nth-child(3){
+            margin-left: 4px;
+        }
+        .box p{
+            font-size: 10px;
+        }
+        .box img {
+            width: 26%;
+        }
+        .web-des-crs {
+            padding-bottom: 10px;
+            padding-top: 14px;
+            margin-top: 0%;
+        }
+        .web-cont h2 {
+           font-size: 13px;
+        }
+        .web-cont p {
+            padding: 0px 5px;
+            font-size: 11px;
+            margin: 4px;
+        }
+        .boxes1-eight {
+            margin-left: 10px;
+            width: 45%;
+        }
+        .boxes1-eight:nth-child(1),.boxes1-eight:nth-child(3),.boxes1-eight:nth-child(5),.boxes1-eight:nth-child(7){
+            margin-left: 10px;
+            margin-right: 0%;
+        }
+        .boxes1-eight:nth-child(2),.boxes1-eight:nth-child(4),.boxes1-eight:nth-child(6),.boxes1-eight:nth-child(8){
+            margin-right: 4px;
+        }
+        .border-box img {
+            width: 55px;
+        }
+        .border-box h3 {
+            font-size: 12px;
+            margin-bottom: 5px;
+        }
+        .border-box p {
+            font-size: 11px;
+        }
+        .border-box {
+            min-height: 150px;
+            margin-bottom: 20px;
+            padding: 5px 0px;
+        }
+        .desc p {
+            font-size: 12px;
+        }
+        .desc {
+            margin-left: 3%;
+            width: 91%;
+        }
+        .a2n1 h1 {
+            font-size: 16px;
+        }
+        .a2n1 h3 {
+            font-size: 13px;
+        }
+        .a2n{
+            background-position: bottom;
+        }
+        .a2n2 {
+            font-size: 11px;
+        }
+        .a2n {
+            height: 188px;
+        }
+        .benefit1 h2 {
+            font-size: 16px;
+        }
+        .benefit1 ul {
+            font-size: 12px;
+            line-height: 1.15;
+            margin-top: 0%;
+        }
+        .benefit1 {
+            width: 60%;
+        }
+        .benefit2 {
+            width: 40%;
+        }
+        .career {
+            padding-bottom: 15px;
+            padding-top: 15px;
+        }
+        .career1 h1 {
+            font-size: 15px;
+        }
+        .career1 p {
+            font-size: 12px;
+            margin: 10px 0px 15px;
+        }
+        .review {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .review1 h1 {
+            font-size: 14px;
+        }
+        .review1 p {
+            font-size: 12px;
+        }
+        .review2 {
+            width: 47%;
+        }
+        .review2 img {
+            margin-top: 0;
+            margin-left: 0;
+            width: 13%;
+        }
+        .review2 p {
+            font-size: 12px;
+        }
+        .review2 {
+            min-height: 141px;
+        }
+        .btn-style-white {
+            font-size: 12px;
+            padding: 5px 10px;
+        }
+        .career {
+            padding-bottom: 10px;
+            padding-top: 10px;
+        }
+        .career1 h1 {
+            font-size: 14px;
+        }
+        .career2 img {
+            padding: 1px;
+            margin: 0px 3px;
+            width: 14%;
+        }
+        .direction1 h1 {
+            font-size: 14px;
+        }
+        .direction1 p {
+            font-size: 12px;
+        }
+        .btn {
+            padding: 5px 10px;
+            font-size: 12px;
+        }
+        .direction {
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        .footer1 p{
+            font-size: 11px;
+        }
+        .footer2 p{
+            font-size: 11px;
+        }.footer {
+            padding: 10px 0;
+        }
+    }   
+   

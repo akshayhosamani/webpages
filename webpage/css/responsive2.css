@@ -1,0 +1,98 @@
+/*  IPAD PRO POTRAIT AND IPAD LANDSCAPE*/
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .container{
+        width:960px
+    }
+    .menu1 {
+        width: 26%;
+        float: left;
+    }
+    .menu2 {
+        margin-left: 9px;
+        width: 73%;
+    }
+    .menu2 ul li {
+        padding: 0 13px 0 14px;
+    }
+    .aboutus1 {
+        margin-left: 10px;
+        width: 43.5%;
+    }
+    .content2 {
+        width: 49%;
+    }
+    .content1 {
+        margin-left: 10px;
+        width: 49%;
+    }
+    .content1 p {
+        line-height: 27px;
+    }
+    .footer1 p {
+        margin-left: 10px;
+    }
+    .footer1 a {
+         margin-left: 10px;
+    }
+    .footerr1 {
+        margin-left: 10px;
+        width: 48%;
+    }
+}
+ /* IPAD POTRAIT */
+ @media only screen and (min-width:768px) and (max-width:991px){
+     .container{
+         width: 720px;
+         margin: auto;
+     }
+     .head2 {
+        width: 45%;
+    }.head1 {
+        width: 45%;
+    }
+    .menu2 ul li {
+        padding:0 4px;
+    }
+    .menu1 img {
+        max-width: 94%;
+        padding: 24px 13px 14px 0px;
+    }
+    .menu1 {
+        width: 20%;
+    }
+    .menu2 {
+        width: 80%;
+    }
+    .aboutus1 {
+        width: 47%;
+    }
+    .aboutus2 {
+        width: 53%;
+    }
+    .content1 {
+        width: 40%;
+    }
+    .row {
+        margin-left: -40px;
+        margin-right: -40px;
+    }
+    .content2 {
+        width: 60%;
+    }
+    .content2 img {
+        max-width: 97%;
+    }
+    .content1 p {
+        line-height: 25px;
+    }
+    .footer1 p {
+        margin-left: 10px;
+    }
+    .footer1 a {
+         margin-left: 10px;
+    }
+    .footerr1 {
+        margin-left: 10px;
+        width: 48%;
+    }
+}
